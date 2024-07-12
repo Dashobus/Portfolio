@@ -1,0 +1,172 @@
+    @font-face {
+        font-family: Unbounded;
+        src: url('fonts/Unbounded.ttf')
+    }
+
+    @font-face {
+        font-family: Nunito;
+        src: url('fonts/NunitoSans.ttf');
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        color: #313131;
+        font-family: Nunito, sans-serif;
+        font-size: 20px;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: Unbounded, sans-serif;
+        padding-bottom: 15px;
+    }
+
+    h2 {
+        border-left: 5px solid red;
+        border-image: linear-gradient(180deg, #32d2c9, #ceea78);
+        border-image-slice: 5;
+
+        padding: 10px 0 10px 15px;
+        margin-bottom: 20px;
+        /* border-left: 5px solid liner-gradient(); */
+    }
+
+    header {
+        padding: 25px 0;
+        /* background-color:#32d2c9; */
+    }
+
+    .logos {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu-items {
+        list-style: none;
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        width: 500px;
+    }
+
+    .menu-link {
+        text-decoration: none;
+        color: inherit;
+
+        border-bottom: 2px solid red;
+        border-image: linear-gradient(90deg, #32d2c9, #ceea78);
+        border-image-slice: 2;
+
+    }
+
+    main {
+        padding: 50px 0;
+        background: -webkit-linear-gradient(90deg, #32d2c9, #ceea78);
+        background: linear-gradient(90deg, #32d2c9, #ceea78);
+    }
+
+    h1 {
+        color: white;
+        letter-spacing: 2px;
+    }
+
+    main .container {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 50px;
+    }
+
+    .main-img img {
+        width: 300px;
+    }
+
+    .main-desc {
+        max-width: 500px;
+    }
+
+    .first-part,
+    .second-part {
+        padding: 50px 0;
+    }
+
+    .portfolio-items {
+        display: flex;
+        align-items: stretch;
+        justify-content: flex-start;
+        gap: 35px;
+        flex-wrap: wrap;
+    }
+
+    .portfolio-item {
+        width: 420px;
+        padding: 15px;
+        border-radius: 8px;
+
+        display: flex;
+
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+
+        background: -webkit-linear-gradient(90deg, #32d2c9, #ceea78);
+        background: linear-gradient(90deg, #32d2c9, #ceea78);
+
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+    }
+
+    .portfolio-img {
+        text-align: center;
+        padding: 20px 0;
+        width: 100%;
+        height: 197px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .portfolio-img img {
+        width: 150px;
+    }
+
+    .second-part .portfolio-img img {
+        width: 300px;
+    }
+       
+
+    footer {
+        background: -webkit-linear-gradient(90deg, #32d2c9, #ceea78);
+        background: linear-gradient(90deg, #32d2c9, #ceea78);
+
+        padding: 30px;
+    }
+
+    footer .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .footer-link {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .footer-desc {
+        padding-bottom: 8px;
+    }

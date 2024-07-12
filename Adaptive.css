@@ -1,0 +1,42 @@
+@media screen and (max-width: 1200px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    main .container {
+        flex-direction: column;
+    }
+
+    .logos p {
+        display: none;
+    }
+
+    .logos {
+
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 500px) {
+     .menu-items {
+        max-width: 300px;
+     }
+
+     .menu-link {
+        font-size: 14px;
+     }
+
+     footer .container {
+         flex-direction: column;
+         gap: 10px;
+     }
+}
+
+@media screen and (max-width: 350px) {
+     .portfolio-item {
+        max-width: 290px;
+     }
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect30"
+       width="97.895836"
+       height="97.895836"
+       x="23.283333"
+       y="166.6875" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31"
+       width="97.895836"
+       height="18.256256"
+       x="23.096245"
+       y="199.81133" />
+    <rect
+       style="fill:#ccdd22;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-9"
+       width="97.895836"
+       height="18.256256"
+       x="23.283335"
+       y="215.63542" />
+    <g
+       id="g31"
+       transform="matrix(0.42185731,-0.77102509,0.77102509,0.42185731,-90.919025,203.60116)">
+      <path
+         style="fill:#e9d28d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="m 29.006448,141.30337 10.543231,-7.29337 4.579803,0.0214 0.444397,21.49385 h -5.024198 l -10.769695,-7.14602 z"
+         id="path31" />
+      <g
+         id="g29"
+         transform="translate(12.120577,31.220833)">
+        <path
+           id="rect1"
+           style="fill:none;stroke:#000000"
+           d="m 27.429102,102.78917 h 46.257356 9.657292 10.876009 v 21.5152 H 83.608333 73.752604 27.429102 l -10.769696,-7.14602 -5.105304,-3.38752 5.331768,-3.68829 z" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           d="m 11.554102,113.77083 5.331768,-3.68829 -0.226464,7.07581 z"
+           id="path27" />
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="rect28"
+           width="10.611426"
+           height="21.5152"
+           x="83.60833"
+           y="102.78917" />
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           id="rect29"
+           width="9.8557262"
+           height="21.5152"
+           x="73.752602"
+           y="102.78917" />
+        <path
+           id="path29"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+           d="m 73.752602,124.30437 v -21.5152 l -45.762234,0.0234 c 1.028548,2.27844 1.965789,4.01202 -0.356776,7.87831 1.230873,1.95644 2.391314,3.93972 0,7.27604 1.39626,1.62651 1.953526,3.24614 0.590637,6.15037 z" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.5659px;line-height:2.05;font-family:Marigold;-inkscape-font-specification:'Marigold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#0d0101;fill-opacity:1;stroke:none;stroke-width:6.42451;stroke-opacity:1"
+       x="79.086487"
+       y="206.84503"
+       id="text3"
+       transform="scale(0.94704546,1.0559155)"><tspan
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.5659px;font-family:Marigold;-inkscape-font-specification:'Marigold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0d0101;fill-opacity:1;stroke:none;stroke-width:6.42452;stroke-opacity:1"
+         x="79.086487"
+         y="206.84503">WEB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.22526px;line-height:2.05;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#0d0101;fill-opacity:1;stroke:none;stroke-width:4.90177;stroke-opacity:1"
+       x="73.915573"
+       y="233.34976"
+       id="text5"
+       transform="scale(1.0200385,0.98035516)"><tspan
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.22526px;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.90178"
+         x="73.915573"
+         y="233.34976">РАЗРАБОТКА</tspan></text>
+  </g>
+</svg>
